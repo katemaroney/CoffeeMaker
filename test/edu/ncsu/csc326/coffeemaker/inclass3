@@ -1,0 +1,3 @@
+1) The statement coverage is 23% overall, 50% for exceptions. For the Inventory class, due to the time limit, statement coverage is 69%, branch coverage is 65%
+2) Randoop did not generate any tests that found bugs, and it also wasn't able to test the real functionality of add<Sugar,Coffee,Chocolate,Milk> by never passing a string that was parseable through. It was very thorough at testing exceptions, and combining multiple operations in one test.
+3) Statement coverage for Inventory class was 61%, branch coverage was 30%.
